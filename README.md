@@ -1,6 +1,6 @@
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Vedant+Wahane;Cyber+Security+Student+%7C+Fullstack+Developer;React+%7C+Node+%7C+MySQL+%7C+Git+%7C+Figma;Hackathon+Finalist+%7C+AWS+Certified" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Vedant+Wahane;" />
 </p>
 
 <!-- Visitor Badge and Profile Stats -->
