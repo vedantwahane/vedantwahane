@@ -4,11 +4,7 @@
 </p>
 
 <!-- Visitor Badge and Profile Stats -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedantwahane&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/vedantwahane?style=social" />
-  <img src="https://img.shields.io/github/stars/vedantwahane?style=social" />
-</p>
+
 
 ---
 
