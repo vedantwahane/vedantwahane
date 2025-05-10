@@ -1,52 +1,96 @@
-# 💫 About Me:
-Hi! I'm **Vedant Wahane**, a passionate Computer Science and Engineering (Cyber Security) student from G. H. Raisoni College of Engineering. I thrive on creating efficient, secure, and user-friendly software solutions. I'm enthusiastic about web development, cybersecurity, and AI integration. Always ready to dive into exciting problems and collaborate on impactful projects.
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Vedant+Wahane;Cyber+Security+Student+%7C+Fullstack+Developer;React+%7C+Node+%7C+MySQL+%7C+Git+%7C+Figma;Hackathon+Finalist+%7C+AWS+Certified" />
+</p>
 
-- 🔭 I’m currently working on: **Git Insights** – a GitHub analytics tool using AI for code quality checks  
-- 🌱 I’m currently learning: **Advanced Web Security**, **Cloud Architecture**, and **AI Integration**  
-- 💬 Ask me about: Web Development, GitHub Projects, Cybersecurity, ReactJS, and Figma  
-- 📫 How to reach me: vedantwahane03@gmail.com  
-- 📄 Know more about me: [My Resume](https://github.com/vedantwahane/Vedant-Wahane/blob/main/Vedant_Wahane_Resume.pdf)  
-- ⚡ Fun fact: I love building tools that save people time and boost productivity.
+<!-- Visitor Badge and Profile Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vedantwahane&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/vedantwahane?style=social" />
+  <img src="https://img.shields.io/github/stars/vedantwahane?style=social" />
+</p>
 
-# 🛠️ Skills:
-### Languages  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+---
 
-### Web & Tools  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+### 👨‍💻 About Me
 
-### Others  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+- 🎓 B.Tech CSE (Cyber Security), GH Raisoni College, Nagpur (2022–2026)
+- 🏆 AWS Cloud Practitioner Certified (2025)
+- 💡 Passionate about building scalable apps, security tools, and smart user experiences
+- 🔭 Currently working on AI-integrated analytics and study platforms
+- 🛡 Hackathon Winner | Biomedical Hackathon Finalist
+- 📚 Always exploring Java, Node.js, React, and backend design patterns
 
-# 📊 GitHub Stats:
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantwahane&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantwahane&layout=compact&theme=radical)
+---
 
-# 🚀 Projects:
-### [🔍 Git Insights – GitHub Repo Analyzer](https://github.com/vedantwahane/git-insights)
-- Real-time GitHub analytics tool with AI-based quality checks  
-- Reduces inspection time by ~60% with detailed insights on PRs, commits, and more
+### 🚀 Tech Stack
 
-### [🎓 Last Prep – Student Study Platform](https://github.com/vedantwahane/last-prep)
-- Helps 500+ students access categorized resources  
-- Boosts retention with a responsive and user-friendly UI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,react,nodejs,mysql,git,figma,aws,py,ts" />
+</p>
 
-# 🏆 Achievements:
-- 🥇 **1st Prize at Comp-ex’ 2024 Cybersecurity Hackathon**  
-- 🎖 Finalist – **Biomedical Hackathon (IIT Bombay & GHRCE)**  
-- 📜 **Certified AWS Cloud Practitioner – Jan 2025**
+---
 
-# 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-wahane)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/vedantwahane)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vedantwahane03@gmail.com)
+### 🛠 Projects
+
+#### 📊 [Git Insights – GitHub Repo Analyzer](https://github.com/vedantwahane/git-insights)
+> Real-time analytics tool with AI-powered quality checks and anti-pattern detection  
+> Reduced debugging and inspection time by 60%
+
+#### 📚 [Last Prep – Study Platform](https://github.com/vedantwahane/last-prep)
+> Web platform helping 500+ students access categorized academic content  
+> Improved retention and UX with responsive design
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **Comp-ex’ 2024 Cyber Security Hackathon** Winner  
+- 🧠 **Biomedical Hackathon Finalist** – Top 50 teams out of 500+  
+- 📜 **AWS Certified Cloud Practitioner – Jan 2025**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantwahane&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vedantwahane&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantwahane&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🏅 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vedantwahane&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantwahane&bg_color=0d1117&color=58a6ff&line=4c8ed9&point=1abc9c&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/vedant-wahane"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:vedantwahane03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/vedantwahane"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 💬 Quote
+
+<p align="center"><i>"Build systems that solve real problems – that’s how you leave a mark."</i></p>
+
+---
+
+> ✨ Crafted with ❤️ by Vedant Wahane
