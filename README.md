@@ -31,7 +31,7 @@
 
 ### 🛠 Projects
 
-#### 📊 [Git Insights – GitHub Repo Analyzer](https://github.com/vedantwahane/git-insights)
+#### 📊 [https://github.com/vedantwahane/Git-Insights-GitHub-Repo-Analyzer.git)
 > Real-time analytics tool with AI-powered quality checks and anti-pattern detection  
 > Reduced debugging and inspection time by 60%
 
